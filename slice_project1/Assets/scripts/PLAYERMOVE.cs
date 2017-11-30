@@ -28,6 +28,6 @@ public class PLAYERMOVE : MonoBehaviour {
     void FixedUpdate()
     {
         // move the player using physics
-        _myrb.AddForce(_inputDirection * 10 * Time.fixedDeltaTime);
+        _myrb.AddForce(_inputDirection * 200 * Time.fixedDeltaTime);
     }
 }
