@@ -8,8 +8,8 @@ public class PLAYERMOVE : MonoBehaviour {
     [SerializeField]
     float speed;
 
-    private Rigidbody _myrb;
-    private Vector3 _inputDirection;
+    public Rigidbody _myrb;
+    public Vector3 _inputDirection;
 	// Use this for initialization
 	void Start () {
         _myrb = GetComponent<Rigidbody>();
@@ -22,12 +22,26 @@ public class PLAYERMOVE : MonoBehaviour {
 
         _inputDirection = new Vector3(x, 0f, z);
 
-        if (_inputDirection != Vector3.zero) transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(_inputDirection.normalized), 0.2f);
+
+       // if (Input.GetKey(KeyCode.LeftShift))
+        
+
+
+        if  (_inputDirection != Vector3.zero)
+                transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(_inputDirection.normalized), 0.2f);
+
+       
+
 
     }
+    
+
+
     void FixedUpdate()
     {
         // move the player using physics
-        _myrb.AddForce(_inputDirection * 200 * Time.fixedDeltaTime);
+        _myrb.AddForce(_inputDirection * 300 * Time.fixedDeltaTime);
+        
     }
 }
+
