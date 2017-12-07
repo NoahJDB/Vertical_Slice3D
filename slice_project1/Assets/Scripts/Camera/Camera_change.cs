@@ -12,11 +12,11 @@ public class Camera_change : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        if (other.gameObject.tag == "Player" && this.gameObject.transform.position.z > other.gameObject.transform.position.z)
+        if (other.gameObject.tag == "Player" && Camera.main.transform.position != CameraPoint.transform.position)
         {
             MoveCamera(CameraPoint.transform.position, new Vector3(Rotation, 0, 0));
         }
-        else if (other.gameObject.tag == "Player" && this.gameObject.transform.position.z < other.gameObject.transform.position.z)
+        else if (other.gameObject.tag == "Player" && Camera.main.transform.position != CameraPoint1.transform.position)
         {
             MoveCamera(CameraPoint1.transform.position, new Vector3(0, 0, 0));
         }
