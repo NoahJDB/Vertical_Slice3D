@@ -39,5 +39,14 @@ public class Player_Movement : MonoBehaviour
         }
         movement.Normalize();
         this.transform.position += (movement * Time.deltaTime * movementSpeed);
+
+        if (Input.GetKeyDown(KeyCode.LeftShift))
+        {
+            movementSpeed = 20;
+        }
+        else if (Input.GetKeyUp(KeyCode.LeftShift))
+            {
+                movementSpeed = 7;
+            }
     }
 }

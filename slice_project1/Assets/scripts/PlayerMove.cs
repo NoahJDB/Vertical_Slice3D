@@ -1,4 +1,4 @@
-﻿using System.Collections;
+﻿/*using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -28,4 +28,4 @@ public class PlayerMove : MonoBehaviour
         if (_inputDirection != Vector3.zero) transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(_inputDirection.normalized), 0.2f);
 
     }
-}
+}*/
