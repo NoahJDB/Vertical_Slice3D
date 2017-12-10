@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:slice_project1/Assets/scripts/String.cs.meta
+guid: b85d0e81d0820984c8f8ff2c6c3c5d04
+timeCreated: 1511873377
+=======
+guid: 6489e72a3424d234bacbdbceaf8ae6fa
+timeCreated: 1512642015
+>>>>>>> e684f30e1f9eb426fe6f6608abaff047e1f533a1:slice_project1/Assets/Scripts/Camera/Camera_Move.cs.meta
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
