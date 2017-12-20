@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: cb4edf0042f1c164eb2340ead0101098
+timeCreated: 1513765332
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group
+    100004: group1
+    100006: pasted__pCube1
+    100008: pasted__pCube2
+    100010: pasted__pCube3
+    100012: pasted__pCube4
+    100014: pasted__pCube5
+    100016: pasted__pCylinder1
+    100018: pasted__pCylinder1 1
+    100020: pasted__pCylinder2
+    100022: pasted__pCylinder3
+    100024: pasted__transform1
+    100026: pasted__transform2
+    100028: pasted__transform3
+    100030: pasted__transform4
+    100032: pasted__transform5
+    100034: pCube10
+    100036: pCube11
+    100038: pCube12
+    100040: pCube2
+    100042: pCube3
+    100044: pCube4
+    100046: pCube5
+    100048: pCube6
+    100050: pCube7
+    100052: pCube8
+    100054: pCube9
+    100056: pCylinder1
+    100058: pCylinder2
+    100060: pCylinder3
+    100062: pCylinder4
+    100064: pCylinder5
+    100066: pCylinder6
+    100068: pPlane10
+    100070: pPlane11
+    100072: pPlane12
+    100074: pPlane13
+    100076: pPlane14
+    100078: pPlane15
+    100080: pPlane16
+    100082: pPlane17
+    100084: pPlane18
+    100086: pPlane19
+    100088: pPlane20
+    100090: pPlane21
+    100092: pPlane22
+    100094: pPlane23
+    100096: pPlane24
+    100098: pPlane3
+    100100: pPlane4
+    100102: pPlane5
+    100104: pPlane6
+    100106: pPlane7
+    100108: pPlane8
+    100110: pPlane9
+    100112: pTorus1
+    100114: transform1
+    100116: transform10
+    100118: transform11
+    100120: transform12
+    100122: transform13
+    100124: transform14
+    100126: transform15
+    100128: transform16
+    100130: transform17
+    100132: transform18
+    100134: transform19
+    100136: transform2
+    100138: transform20
+    100140: transform21
+    100142: transform22
+    100144: transform23
+    100146: transform24
+    100148: transform25
+    100150: transform26
+    100152: transform27
+    100154: transform28
+    100156: transform29
+    100158: transform3
+    100160: transform30
+    100162: transform31
+    100164: transform32
+    100166: transform33
+    100168: transform34
+    100170: transform35
+    100172: transform36
+    100174: transform37
+    100176: transform38
+    100178: transform39
+    100180: transform40
+    100182: transform41
+    100184: transform42
+    100186: transform43
+    100188: transform44
+    100190: transform45
+    100192: transform6
+    100194: transform7
+    100196: transform8
+    100198: transform9
+    400000: //RootNode
+    400002: group
+    400004: group1
+    400006: pasted__pCube1
+    400008: pasted__pCube2
+    400010: pasted__pCube3
+    400012: pasted__pCube4
+    400014: pasted__pCube5
+    400016: pasted__pCylinder1
+    400018: pasted__pCylinder1 1
+    400020: pasted__pCylinder2
+    400022: pasted__pCylinder3
+    400024: pasted__transform1
+    400026: pasted__transform2
+    400028: pasted__transform3
+    400030: pasted__transform4
+    400032: pasted__transform5
+    400034: pCube10
+    400036: pCube11
+    400038: pCube12
+    400040: pCube2
+    400042: pCube3
+    400044: pCube4
+    400046: pCube5
+    400048: pCube6
+    400050: pCube7
+    400052: pCube8
+    400054: pCube9
+    400056: pCylinder1
+    400058: pCylinder2
+    400060: pCylinder3
+    400062: pCylinder4
+    400064: pCylinder5
+    400066: pCylinder6
+    400068: pPlane10
+    400070: pPlane11
+    400072: pPlane12
+    400074: pPlane13
+    400076: pPlane14
+    400078: pPlane15
+    400080: pPlane16
+    400082: pPlane17
+    400084: pPlane18
+    400086: pPlane19
+    400088: pPlane20
+    400090: pPlane21
+    400092: pPlane22
+    400094: pPlane23
+    400096: pPlane24
+    400098: pPlane3
+    400100: pPlane4
+    400102: pPlane5
+    400104: pPlane6
+    400106: pPlane7
+    400108: pPlane8
+    400110: pPlane9
+    400112: pTorus1
+    400114: transform1
+    400116: transform10
+    400118: transform11
+    400120: transform12
+    400122: transform13
+    400124: transform14
+    400126: transform15
+    400128: transform16
+    400130: transform17
+    400132: transform18
+    400134: transform19
+    400136: transform2
+    400138: transform20
+    400140: transform21
+    400142: transform22
+    400144: transform23
+    400146: transform24
+    400148: transform25
+    400150: transform26
+    400152: transform27
+    400154: transform28
+    400156: transform29
+    400158: transform3
+    400160: transform30
+    400162: transform31
+    400164: transform32
+    400166: transform33
+    400168: transform34
+    400170: transform35
+    400172: transform36
+    400174: transform37
+    400176: transform38
+    400178: transform39
+    400180: transform40
+    400182: transform41
+    400184: transform42
+    400186: transform43
+    400188: transform44
+    400190: transform45
+    400192: transform6
+    400194: transform7
+    400196: transform8
+    400198: transform9
+    2300000: pPlane24
+    3300000: pPlane24
+    4300000: pPlane24
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: ee26d2528a933694a87a6f040b6c337a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: 0970eec276b0c87468ec41d958107af3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert13
+    second: {fileID: 2100000, guid: eb4275ae7e396a74890b76bc2c8cc59a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert14
+    second: {fileID: 2100000, guid: 944cd4abaeaf7b745ae488c4bf7126eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert15
+    second: {fileID: 2100000, guid: b1fc5f889d7f04347bc304c8983d2279, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert16
+    second: {fileID: 2100000, guid: 52b9881d74601ad4cad1ef93f3293bb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert17
+    second: {fileID: 2100000, guid: de23a86e1fccd4e408f0041fdf3dd6d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert19
+    second: {fileID: 2100000, guid: 6d13e915c07edf04dbbc88f52e7cf288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 448d9761d9e1de84ebfd53bf52936069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert20
+    second: {fileID: 2100000, guid: 2d3eb681e54c85b439105a5a04682dff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert21
+    second: {fileID: 2100000, guid: f1e383769a73757498bf68803b413394, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert22
+    second: {fileID: 2100000, guid: f1e383769a73757498bf68803b413394, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert25
+    second: {fileID: 2100000, guid: 05f20173d05fe9648b2e1d648720f1ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert26
+    second: {fileID: 2100000, guid: 05f20173d05fe9648b2e1d648720f1ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert27
+    second: {fileID: 2100000, guid: 05f20173d05fe9648b2e1d648720f1ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert28
+    second: {fileID: 2100000, guid: 1bd3ab319089785488e1583c99c4942e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 9ca428e47518e0d40b1140901aedab1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 096aab5f26383aa49b8ee603ea0aed66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: e0047a4d4f15d9b4eaa943d0d4124a55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert9
+    second: {fileID: 2100000, guid: 4d34cc29457c94140b927b7345187218, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert2
+    second: {fileID: 2100000, guid: f7f300fd457cafc4bacceea897d265f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert3
+    second: {fileID: 2100000, guid: b30b62d45714bc34a86914c56e468f5a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
