@@ -1,8 +1,1 @@
-sceneSetups:
-<<<<<<< HEAD
-- path: Assets/3D models/verbeterd environment.unity
-=======
-- path: Assets/scenes/Camera.unity
->>>>>>> ef2b56c64801d1305b05631bf78dbfa586479240
-  isLoaded: 1
-  isActive: 1
+sceneSetups: []
