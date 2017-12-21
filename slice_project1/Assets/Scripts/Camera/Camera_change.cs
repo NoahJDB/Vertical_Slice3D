@@ -8,17 +8,15 @@ public class Camera_change : MonoBehaviour
     public GameObject CameraPoint;
     public GameObject CameraPoint1;
 
-    private const int Rotation = 57;
-
     private void OnTriggerExit(Collider other)
     {
         if (other.gameObject.tag == "Player" && Camera.main.transform.position != CameraPoint.transform.position)
         {
-            MoveCamera(CameraPoint.transform.position, new Vector3(Rotation, 0, 0));
+            MoveCamera(CameraPoint.transform.position, new Vector3(17.74f, -90, 0));
         }
         else if (other.gameObject.tag == "Player" && Camera.main.transform.position != CameraPoint1.transform.position)
         {
-            MoveCamera(CameraPoint1.transform.position, new Vector3(0, 0, 0));
+            MoveCamera(CameraPoint1.transform.position, new Vector3(62.35f, -90, 0));
         }
     }
 

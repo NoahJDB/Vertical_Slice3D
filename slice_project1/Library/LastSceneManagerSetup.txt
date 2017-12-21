@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/scenes/Main_Kevin.unity
-=======
 - path: Assets/scenes/Camera.unity
->>>>>>> 8a9c5c8caf9e92b67f39819e0c1f284a63ed98c6
   isLoaded: 1
   isActive: 1
